@@ -1,0 +1,25 @@
+body {
+    background-image: url(images/coding.jpg);
+    background-repeat: round;
+}
+
+.container {
+    margin-top: 5px;
+    padding-left: 150px;
+    padding-right: 150px;
+    width: 60%;
+    background: wheat;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
+
+.carousel-caption {
+    text-align: left;
+    margin: match-parent;
+}
+h5 {
+    color: rgb(0, 255, 0);
+}
